@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**PotatoSlayer56/PotatoSlayer56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Josh
 
-Here are some ideas to get you started:
+I like to create games and create mods for games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I speak English but I do know a little Japanese**
+
+### Languages I know
+
+- Python
+- Skript
+
+### Languages I'm learning
+
+- C++
+- Java
+
+### Other stuff I learnt
+
+- Install Arch
+- Setup Hyprland (10/10 would recommend)
+- Configure Waybar
