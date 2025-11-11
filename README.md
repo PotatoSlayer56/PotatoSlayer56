@@ -1,9 +1,8 @@
 
 ## Hi, I'm Josh
 
-I like to create games and create mods for games.
-
-**I speak English but I do know a little Japanese**
+17M From Australia
+I enjoy programming, especially making games or maths projets
 
 ### Languages I know
 
@@ -15,8 +14,6 @@ I like to create games and create mods for games.
 - C++
 - Java
 
-### Other stuff I learnt
+### Other stuff I do
 
-- Install Arch
-- Setup Hyprland (10/10 would recommend)
-- Configure Waybar
+ - Rice Hyprland
